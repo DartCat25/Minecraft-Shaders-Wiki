@@ -320,7 +320,7 @@ The enchant glint in most situations. Enchanted worn armor is rendered by `armor
 ---
 
 ### glint_translucent
-The enchant glint in translucent blocks (like stained glass) in world when graphics setting is `Fabolous!`.
+The enchant glint on translucent blocks (like stained glass) in world when graphics setting is `Fabolous!`.
 
 <img src="images/rendertype_glint_translucent.png" width=200> 
 
