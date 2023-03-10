@@ -31,7 +31,7 @@ The part in brackets is a summary and not a full list of everything each shader 
     - [armor_entity_glint](#armor_entity_glint) (Worn Armor Enchant Glint)
     - [glint](#glint) (Glass Enchant Glint)
     - [glint_direct](#glint_direct) (Standard Enchant Glint)
-    - [glint_translucent](#glint_translucent) (Glass enchanted glint in `Fabolous!`)
+    - [glint_translucent](#glint_translucent) (Glass enchanted glint in Fabolous)
     - [energy_swirl](#energy_swirl) (Charged Creeper, Wither Swirl)
     - [eyes](#eyes) (Entities with glowing eyes)
     - [leash](#leash) (Leash)
